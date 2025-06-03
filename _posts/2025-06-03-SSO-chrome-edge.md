@@ -1,6 +1,6 @@
 ---
 title: Configuração de SSO no Chrome e Edge
-author: wesleycanela
+author: 1001
 date: 25-04-02 14:11
 categories: [HowTo]
 tags: [linux]
