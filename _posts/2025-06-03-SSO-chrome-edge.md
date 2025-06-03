@@ -1,6 +1,7 @@
 ---
-title: Configuração de SSO no Chrome e Edge
-author: 1001
+title: Configuração de SSO no Chrome e Edge no Linux
+description: Configurar a autenticação integrada (SSO) nos navegadores Google Chrome e Microsoft Edge no Linux.
+author: wesley
 date: 25-04-02 14:11
 categories: [HowTo]
 tags: [linux]
