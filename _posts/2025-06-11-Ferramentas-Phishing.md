@@ -1,9 +1,9 @@
 ---
-title: Ferramentas gratuitas para phishing
+title: Ferramentas Gratuitas para Phishing
 author: wesley
 date: 25-04-11 02:20
-categories: [Security, soc]
-tags: [soc]
+categories: [Security, SOC]
+tags: [SOC]
 ---
 O phishing é uma das ameaças mais comuns e perigosas no cenário de segurança da informação. Para ajudar analistas e profissionais da área, selecionei as 10 melhores ferramentas gratuitas para detecção, análise, resposta e conscientização sobre ataques de phishing. Confira o ranking e descubra como cada solução pode fortalecer sua defesa!
 
