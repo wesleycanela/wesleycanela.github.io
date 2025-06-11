@@ -3,11 +3,9 @@ title: Google Dorks Cheat para OSINT
 description: Guia rápido de comandos Google Dorks para investigações OSINT.
 author: wesley
 date: 25-04-03 06:11
-categories: [OSINT]
-tags: [dork, google, cheat]
+categories: [Security, OSINT]
+tags: [dork, google, cheat, osint]
 ---
-# Google Dorks Cheat para OSINT
-
 ## Operadores Básicos de Busca
 
 ### Busca por Frase Exata
