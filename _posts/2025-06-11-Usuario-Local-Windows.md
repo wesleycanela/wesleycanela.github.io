@@ -16,7 +16,7 @@ Pressione as teclas **Shift + F10** ao mesmo tempo. Isso abrirá uma janela do P
 
 ### 3. **Execute o Comando de Bypass**
 No Prompt de Comando, digite:
-```dos
+```
 start ms-cxh:localonly
 ```
 
