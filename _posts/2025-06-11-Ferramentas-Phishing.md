@@ -1,5 +1,5 @@
 ---
-title: Ferramentas Gratuitas para Phishing
+title: Ferramentas Gratuitas para Combater o Phishing
 author: wesley
 date: 25-04-11 02:20
 categories: [Security, SOC]
