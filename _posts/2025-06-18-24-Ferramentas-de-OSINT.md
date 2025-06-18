@@ -1,6 +1,5 @@
 ---
 title: 24 Ferramentas OSINT que Todo Profissional de Cibersegurança Deve Conhecer
-description: Guia rápido de comandos Google Dorks para investigações OSINT.
 author: wesley
 date: 25-06-18 02:11
 categories: [Security, OSINT]
